@@ -1,0 +1,22 @@
+{
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabeOP/json-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabeOP/json-server/issues"
+  },
+  "homepage": "https://github.com/GabeOP/json-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
