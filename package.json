@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "json:server": "json-server --watch db.json"
+    "start": "server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/GabeOP/json-server.git"
   },
-  "author": "",
+  "author": "Gabriel Oliveira",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/GabeOP/json-server/issues"
